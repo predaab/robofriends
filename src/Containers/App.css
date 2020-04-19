@@ -1,0 +1,12 @@
+@font-face {
+	font-family: 'Vieytes Font';
+	font-style:normal;
+	font-weight: normal;
+	src: local('Vieytes Font'), url('Vieytes.woff') format('woff');
+}
+
+h1 {
+	font-family: 'Vieytes Font';
+	font-weight: 200;
+	color: #0ccac4;
+}
